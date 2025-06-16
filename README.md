@@ -4,17 +4,26 @@
 ======================================================================
 -->
 
-<!-- En-tête avec disposition en colonnes -->
-<div width="100%">
-      <!-- Titre animé -->
-      <img src="https://i.postimg.cc/NFKv7YG2/banner-linkedin-final.png" alt="Typing SVG" />
-      <p align="left">
-        Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
-      </p>
-      <div align="left">
-        <a href="https://linkedin.com/in/tito-vigninnou" target="blank"></a>
-        <a href="mailto:titovlucien@gmail.com" target="blank"></a>
-      </div>
+<!-- Compteur de vues -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mrcryptsie&label=Vues%20du%20Profil&color=0077B5&style=for-the-badge" alt="compteur de vues du profil"/>
+</div>
+
+<!-- En-tête -->
+<div>
+  <!-- Bannière -->
+  <img src="https://i.postimg.cc/NFKv7YG2/banner-linkedin-final.png" alt="Bannière TITO Vigninnou Lucien" />
+  
+  <!-- Mission -->
+  <p align="left">
+    Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
+  </p>
+  
+  <!-- Liens Sociaux (corrigés) -->
+  <div align="left">
+    <a href="https://linkedin.com/in/tito-vigninnou" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:titovlucien@gmail.com" target="blank"><img src="https://img.shields.io/badge/Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </div>
 </div>
 
 ## ⚙️ Ma Stack Technologique Complète
