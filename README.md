@@ -17,11 +17,6 @@
       </div>
 </div>
 
-<!-- Séparateur de section stylé -->
-<p align="center">
-  <img src="https://i.postimg.cc/0y8xFGrf/ai-technology-brain-background-digital-transformation-concept.jpg" alt="Wave separator" />
-</p>
-
 ## ⚙️ Ma Stack Technologique Complète
 
 <table width="100%">
