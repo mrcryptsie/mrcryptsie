@@ -9,7 +9,7 @@
   <tr>
     <td width="65%" valign="top">
       <!-- Titre animé -->
-      <img src="[https://readme-typing-svg.herokuapp.com?font=Raleway&size=30&weight=800&color=0077B5¢er=false&vCenter=true&width=1000&lines=Bonjour,+je+suis+TITO+Vigninnou+Lucien;Architecte+de+l'Intelligence+Artificielle;Ingénieur+IA+%7C+Data+Scientist](https://imgur.com/a/Std5a3t)" alt="Typing SVG" />
+      <img src="[[https://readme-typing-svg.herokuapp.com?font=Raleway&size=30&weight=800&color=0077B5¢er=false&vCenter=true&width=1000&lines=Bonjour,+je+suis+TITO+Vigninnou+Lucien;Architecte+de+l'Intelligence+Artificielle;Ingénieur+IA+%7C+Data+Scientist](https://imgur.com/a/Std5a3t)](https://i.postimg.cc/VkLy1kgX/853.jpg)" alt="Typing SVG" />
       <p align="left">
         Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
       </p>
