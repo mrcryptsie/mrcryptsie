@@ -176,11 +176,6 @@ Je ne vois pas les modèles d'IA comme des boîtes noires isolées, mais comme d
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/mrcryptsie/mrcryptsie/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</div>
-
 ---
 <p align="center">
   🚀 Ouvert aux collaborations et aux défis stimulants. N'hésitez pas à me contacter !
