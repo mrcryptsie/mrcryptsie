@@ -58,7 +58,7 @@
 
 <!-- Séparateur de section stylé -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrcryptsie/mrcryptsie/main/assets/wave.svg" alt="Wave separator" />
+  <img src="https://i.postimg.cc/MGwCvVhL/2.png" alt="Wave separator" />
 </p>
 
 ## 💡 Portfolio de Projets Détaillé : L'IA en Action
@@ -124,7 +124,7 @@
 <table width="100%" style="margin-bottom: 20px;">
   <tr>
     <td width="35%" valign="middle" align="center">
-      <img src="https://images.unsplash.com/photo-1593349480503-64c353a48342?q=80&w=1074&auto=format&fit=crop" style="border-radius: 10px;" alt="Data Center Servers" />
+      <img src="https://i.postimg.cc/Y0j1qLXL/programming-background-collage.jpg" style="border-radius: 10px;" alt="Data Center Servers" />
     </td>
     <td width="65%" valign="top" style="padding-left: 20px;">
       <h3>🚀 Ingénierie & Déploiement : De la Théorie à la Production</h3>
@@ -150,7 +150,7 @@
 
 <!-- Séparateur de section stylé -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrcryptsie/mrcryptsie/main/assets/wave.svg" alt="Wave separator" />
+  <img src="https://i.postimg.cc/k4LGrTpZ/1.png" alt="Wave separator" />
 </p>
 
 ## 🏛️ Ma Philosophie d'Architecture : L'IA en tant que Système de Microservices
@@ -165,7 +165,7 @@ Je ne vois pas les modèles d'IA comme des boîtes noires isolées, mais comme d
 
 <!-- Séparateur de section stylé -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrcryptsie/mrcryptsie/main/assets/wave.svg" alt="Wave separator" />
+  <img src="https://i.postimg.cc/k4LGrTpZ/1.png" alt="Wave separator" />
 </p>
 
 ## 📊 Mon Activité sur GitHub
