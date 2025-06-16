@@ -21,7 +21,7 @@
   
   <!-- Liens Sociaux (corrigés) -->
   <div align="left">
-    <a href="https://linkedin.com/in/tito-vigninnou" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/lucientito/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:titovlucien@gmail.com" target="blank"><img src="https://img.shields.io/badge/Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </div>
 </div>
