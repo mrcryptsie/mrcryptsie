@@ -20,7 +20,7 @@
     </td>
     <td width="35%" valign="middle" align="center">
       <!-- Image professionnelle -->
-      <img src="https://images.unsplash.com/photo-1614741118884-4581e2187498?q=80&w=987&auto=format&fit=crop" width="100%" alt="Abstract AI Visualization"/>
+      <img src="https://i.postimg.cc/0y8xFGrf/ai-technology-brain-background-digital-transformation-concept.jpg" width="100%" alt="Abstract AI Visualization"/>
     </td>
   </tr>
 </table>
