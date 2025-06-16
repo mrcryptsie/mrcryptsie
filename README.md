@@ -5,11 +5,9 @@
 -->
 
 <!-- En-tête avec disposition en colonnes -->
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<div width="100%">
       <!-- Titre animé -->
-      <img src="https://i.postimg.cc/VkLy1kgX/853.jpg" alt="Typing SVG" />
+      <img src="https://i.postimg.cc/NFKv7YG2/banner-linkedin-final.png" alt="Typing SVG" />
       <p align="left">
         Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
       </p>
@@ -17,13 +15,7 @@
         <a href="https://linkedin.com/in/tito-vigninnou" target="blank"></a>
         <a href="mailto:titovlucien@gmail.com" target="blank"></a>
       </div>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <!-- Image professionnelle -->
-      <img src="https://i.postimg.cc/0y8xFGrf/ai-technology-brain-background-digital-transformation-concept.jpg" width="100%" alt="Abstract AI Visualization"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 <!-- Séparateur de section stylé -->
 <p align="center">
