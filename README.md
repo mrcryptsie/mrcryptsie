@@ -15,7 +15,7 @@
       </p>
       <div align="left">
         <a href="https://linkedin.com/in/tito-vigninnou" target="blank"><img src="https://i.postimg.cc/rpYzJZV3/man-plays-difficult-singeplayer-videogame-spamming-attack-buttons-defeat-enemies.jpg" alt="tito-vigninnou" /></a>
-        <a href="mailto:titovlucien@gmail.com" target="blank"><img src="https://img.shields.io/badge/Contactez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="titovlucien@gmail.com" /></a>
+        <a href="mailto:titovlucien@gmail.com" target="blank"><img src="https://i.postimg.cc/Y0j1qLXL/programming-background-collage.jpg" alt="titovlucien@gmail.com" /></a>
       </div>
     </td>
     <td width="35%" valign="middle" align="center">
