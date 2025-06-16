@@ -16,7 +16,7 @@
   
   <!-- Mission -->
   <p align="left">
-    Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
+    Passionné par la transformation de données brutes en intelligence artificielle, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
   </p>
   
   <!-- Liens Sociaux (corrigés) -->
