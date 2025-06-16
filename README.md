@@ -14,8 +14,8 @@
         Passionné par la transformation de données brutes en intelligence actionnable, ma mission est de concevoir, construire et déployer des <strong>systèmes d'IA robustes et scalables</strong> qui résolvent des défis concrets. De l'imagerie médicale à l'IA Générative, je pilote des projets de la preuve de concept (PoC) jusqu'à la mise en production (MLOps).
       </p>
       <div align="left">
-        <a href="https://linkedin.com/in/tito-vigninnou" target="blank"><img src="https://i.postimg.cc/rpYzJZV3/man-plays-difficult-singeplayer-videogame-spamming-attack-buttons-defeat-enemies.jpg" alt="tito-vigninnou" /></a>
-        <a href="mailto:titovlucien@gmail.com" target="blank"><img src="https://i.postimg.cc/Y0j1qLXL/programming-background-collage.jpg" alt="titovlucien@gmail.com" /></a>
+        <a href="https://linkedin.com/in/tito-vigninnou" target="blank"></a>
+        <a href="mailto:titovlucien@gmail.com" target="blank"></a>
       </div>
     </td>
     <td width="35%" valign="middle" align="center">
